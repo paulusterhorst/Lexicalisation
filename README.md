@@ -1,2 +1,2 @@
 # Lexicalisation
-This repo is set up tolexical ine lexical candidates in corpora.
+This repo is set up to mine lexical candidates in corpora.
